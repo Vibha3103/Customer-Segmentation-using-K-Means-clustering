@@ -1,12 +1,12 @@
-# 🛍️ Customer Segmentation using K-Means Clustering
+#  Customer Segmentation using K-Means Clustering
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on grouping customers into different segments based on their purchasing behavior using the K-Means Clustering algorithm. The goal is to help businesses understand customer patterns and improve marketing strategies.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 * Group customers based on similar characteristics
 * Identify different types of customers
@@ -15,7 +15,7 @@ This project focuses on grouping customers into different segments based on thei
 
 ---
 
-## 🧠 Problem Statement
+## Problem Statement
 
 Businesses often treat all customers the same, which leads to:
 
@@ -27,7 +27,7 @@ This project solves the problem by segmenting customers into meaningful groups.
 
 ---
 
-## 🚀 Features
+## Features
 
 * Data preprocessing and cleaning
 * Feature selection (Income, Spending Score, Age)
@@ -39,7 +39,7 @@ This project solves the problem by segmenting customers into meaningful groups.
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset includes:
 
@@ -51,7 +51,7 @@ The dataset includes:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * Python
 * Pandas & NumPy
@@ -60,7 +60,7 @@ The dataset includes:
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 1. Data Collection from dataset (CSV file)
 2. Data Preprocessing (handling missing values, encoding Gender)
@@ -74,7 +74,7 @@ The dataset includes:
 
 ---
 
-## 📈 Visualization Outputs
+## Visualization Outputs
 
 * Elbow Curve (WCSS vs Number of Clusters)
 * Cluster Scatter Plot (Income vs Spending Score)
@@ -83,7 +83,7 @@ The dataset includes:
 
 ---
 
-## 🧩 Customer Segments (Example)
+## Customer Segments (Example)
 
 * **Premium Customers** – High income, high spending
 * **Budget Customers** – Low income, low spending
@@ -92,7 +92,7 @@ The dataset includes:
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Upload dataset in Google Colab or Jupyter Notebook
 2. Run all cells step-by-step
@@ -101,7 +101,7 @@ The dataset includes:
 
 ---
 
-## 📊 Expected Output
+##  Expected Output
 
 * Customers grouped into clusters
 * Graphical representation of segments
@@ -109,7 +109,7 @@ The dataset includes:
 
 ---
 
-## ✅ Advantages
+##  Advantages
 
 * Better understanding of customers
 * Helps in targeted marketing
@@ -118,7 +118,7 @@ The dataset includes:
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Requires proper selection of number of clusters (K)
 * Sensitive to outliers
@@ -126,7 +126,7 @@ The dataset includes:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Use advanced clustering (DBSCAN, Hierarchical)
 * Real-time customer segmentation
@@ -135,13 +135,13 @@ The dataset includes:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Vibha Shanbhag
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how clustering techniques like K-Means can be used to segment customers effectively, helping businesses make better data-driven decisions and improve overall performance.
 
